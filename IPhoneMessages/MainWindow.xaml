@@ -1,0 +1,25 @@
+﻿<Window x:Class="IPhoneMessages.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IPhoneMessages"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel Width="150">
+            <local:BubbleDecorator HorizontalAlignment="Right" Margin="2">
+                <TextBlock Padding="13" TextWrapping="Wrap"
+                   Text="Я думаю, она дала тебе неправильный номер" Foreground="Black"/>
+            </local:BubbleDecorator>
+            <local:BubbleDecorator HorizontalAlignment="Right" Margin="2">
+                <TextBlock Padding="13" TextWrapping="Wrap"
+                   Text="А может быть и нет, кто их разберёт?"/>
+            </local:BubbleDecorator>
+            <local:BubbleDecorator HorizontalAlignment="Right" Margin="2">
+                <TextBlock Padding="13" TextWrapping="Wrap"
+                   Text="Приффки!!1"/>
+            </local:BubbleDecorator>
+        </StackPanel>
+    </Grid>
+</Window>

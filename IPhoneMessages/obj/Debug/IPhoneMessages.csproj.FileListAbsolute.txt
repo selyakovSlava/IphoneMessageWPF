@@ -1,0 +1,17 @@
+C:\Users\Вячеслав\source\repos\IPhoneMessages\IPhoneMessages\bin\Debug\IPhoneMessages.exe
+C:\Users\Вячеслав\source\repos\IPhoneMessages\IPhoneMessages\bin\Debug\IPhoneMessages.pdb
+C:\Users\Вячеслав\source\repos\IPhoneMessages\IPhoneMessages\obj\Debug\IPhoneMessages.csprojResolveAssemblyReference.cache
+C:\Users\Вячеслав\source\repos\IPhoneMessages\IPhoneMessages\obj\Debug\Bubble.g.cs
+C:\Users\Вячеслав\source\repos\IPhoneMessages\IPhoneMessages\obj\Debug\MainWindow.g.cs
+C:\Users\Вячеслав\source\repos\IPhoneMessages\IPhoneMessages\obj\Debug\App.g.cs
+C:\Users\Вячеслав\source\repos\IPhoneMessages\IPhoneMessages\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Вячеслав\source\repos\IPhoneMessages\IPhoneMessages\obj\Debug\IPhoneMessages_MarkupCompile.cache
+C:\Users\Вячеслав\source\repos\IPhoneMessages\IPhoneMessages\obj\Debug\IPhoneMessages_MarkupCompile.lref
+C:\Users\Вячеслав\source\repos\IPhoneMessages\IPhoneMessages\obj\Debug\Bubble.baml
+C:\Users\Вячеслав\source\repos\IPhoneMessages\IPhoneMessages\obj\Debug\MainWindow.baml
+C:\Users\Вячеслав\source\repos\IPhoneMessages\IPhoneMessages\obj\Debug\IPhoneMessages.g.resources
+C:\Users\Вячеслав\source\repos\IPhoneMessages\IPhoneMessages\obj\Debug\IPhoneMessages.Properties.Resources.resources
+C:\Users\Вячеслав\source\repos\IPhoneMessages\IPhoneMessages\obj\Debug\IPhoneMessages.csproj.GenerateResource.Cache
+C:\Users\Вячеслав\source\repos\IPhoneMessages\IPhoneMessages\obj\Debug\IPhoneMessages.csproj.CoreCompileInputs.cache
+C:\Users\Вячеслав\source\repos\IPhoneMessages\IPhoneMessages\obj\Debug\IPhoneMessages.exe
+C:\Users\Вячеслав\source\repos\IPhoneMessages\IPhoneMessages\obj\Debug\IPhoneMessages.pdb
